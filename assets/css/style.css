@@ -1,12 +1,37 @@
 * {
     box-sizing: border-box;
-
 }
+
 #header {
     background-color: lightblue;
     font-family: 'Noto Sans', sans-serif;
     margin: auto;
     letter-spacing: 2.0;
+    height: 100px;
+    padding: 25px;
+}
+
+.body {
+    font-family: 'Noto Sans', sans-serif;
+    letter-spacing: 2.0;
+}
+
+#mainContent {
+    margin: auto;
+    padding: 100px;
+
+
+}
+#topArticles{
+    box-sizing: border-box;
+    border: solid 3px;
+    border-color: lightblue;
+    
+}
+#footer {
+    background-color: lightblue;
+    margin: auto;
+    padding: 10px;
     
 
 }
